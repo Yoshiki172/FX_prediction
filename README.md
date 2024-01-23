@@ -10,5 +10,5 @@ This program is currently in the testing phase and may be modified in the future
 First, download the training data from [here](https://drive.google.com/file/d/1ZTl-fzOiouXQde_TP2I2o-bj5nf31IEb/view?usp=drive_link) and store it in the 'base_model' directory. By executing the following code, you will be able to predict whether the EUR/JPY exchange rate will rise or fall the next day.
 
 ```
-python predict.py
+python prediction.py
 ```
